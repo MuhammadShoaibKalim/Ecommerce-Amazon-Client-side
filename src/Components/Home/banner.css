@@ -1,0 +1,11 @@
+/* Update the .banner_img and .carousel styles */
+.banner_img {
+    width: 100vw;
+    max-height: 480px; /* Set a max-height to ensure the image does not exceed a certain height */
+    overflow: hidden; /* Hide any overflow content beyond the max-height */
+  }
+  
+  .carousel {
+    margin-top: 10px;
+  }
+  
